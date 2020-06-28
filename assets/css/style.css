@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #d9232d;
+  background: #123767;
   color: #fff;
   transition: all 0.4s;
 }
@@ -569,7 +569,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 18px 0;
-  background: #000000;
+  background: #123767;
   min-height: 40px;
   margin-top: 86px;
 }
