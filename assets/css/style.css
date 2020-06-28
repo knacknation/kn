@@ -484,11 +484,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  background: #d9232d;
+  background: #123767;
 }
 
 #hero .btn-get-started:hover {
-  background: #df3740;
+  background: #1A4584;
 }
 
 @media (max-width: 992px) {
