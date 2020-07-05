@@ -14,11 +14,11 @@ body {
 }
 
 a {
-  color: #d9232d;
+  color: #123767;
 }
 
 a:hover {
-  color: #e24d55;
+  color: #1A4584;
   text-decoration: none;
 }
 
@@ -1001,7 +1001,7 @@ section {
 }
 
 .features .nav-link:hover {
-  color: #1A4584;
+  color: #d9232d;
 }
 
 .features .nav-link.active {
