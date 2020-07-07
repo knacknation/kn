@@ -1401,7 +1401,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
-  margin-top: ;
+  margin-top: 0px;
   text-align: center;
 }
 
