@@ -352,7 +352,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .carousel, #hero .carousel-inner, #hero .carousel-item, #hero .carousel-item::before {
-  position: relative;
+  position: absolute;
   top: 0;
   right: 0;
   left: 0;
