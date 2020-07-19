@@ -352,7 +352,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .carousel, #hero .carousel-inner, #hero .carousel-item, #hero .carousel-item::before {
-  position: absolute;
+  position: relative;
   top: 0;
   right: 0;
   left: 0;
@@ -430,7 +430,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 112px;
 }
 
-@media (max-width: 100%) {
+@media (max-width: 992px) {
   #hero .carousel-control-prev, #hero .carousel-control-next {
     top: 66px;
   }
