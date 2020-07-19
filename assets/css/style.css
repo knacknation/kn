@@ -430,7 +430,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 112px;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 100%) {
   #hero .carousel-control-prev, #hero .carousel-control-next {
     top: 66px;
   }
