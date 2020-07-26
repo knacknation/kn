@@ -18,16 +18,13 @@ $headers .= 'Reply-To: '.$field_email."\r\n";
 $mail_status = mail($mail_to, $subject, $body_message, $headers);
 
 if ($mail_status) { ?>
-	<script language="javascript" type="text/javascript">
-		alert('Thank you for the message. We will contact you shortly if needed.');
-		window.location = 'contact.html';
-	</script>
+
 <?php
 }
 else { ?>
 	<script language="javascript" type="text/javascript">
 		alert('Message failed. Please, send an email to contact@knacknation.club');
-		window.location = 'contact.html';
+		window.location = 'https://knacknation.club/index.html';
 	</script>
 <?php
 }
