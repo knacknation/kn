@@ -198,7 +198,7 @@
     fetch(scriptURL, { method: 'POST', body: new FormData(form)})
       .then(response => console.log('Success!', response))
       .catch(error => console.error('Error!', error.message))
-
+})
 $("#contact-me").submit(function(){
     swal("Thank You!", "Your message has been sent. We will contact you as soon as possible if needed.", "success");
 });
@@ -278,15 +278,18 @@ $("#contact-me").submit(function(){
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
             
             <script>
-  const scriptURL = 'https://script.google.com/macros/s/AKfycbwDegwjPGszf3NbfKOHwsA8YxYgFBwO1ybAq9tAVh6FDdQwIytj/exec'
+   const scriptURL = 'https://script.google.com/macros/s/AKfycbwDegwjPGszf3NbfKOHwsA8YxYgFBwO1ybAq9tAVh6FDdQwIytj/exec'
   const form = document.forms['newsletter']
-  form.addEventListener('submit', e => {
+  form.addEventListener('submit2', e => {
     e.preventDefault()
     fetch(scriptURL, { method: 'POST', body: new FormData(form)})
       .then(response => console.log('Success!', response))
       .catch(error => console.error('Error!', error.message))
-    $('#newsletter')[0].reset();<!-- for resetting fields after submission -->
   })
+
+$("#newsletter").submit(function(){
+    swal("Thank You!", "You have joined our mailing list.", "success");
+});
 
 </script>
 
