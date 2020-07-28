@@ -285,7 +285,6 @@ $("#contact-me").submit(function(){
     fetch(scriptURL, { method: 'POST', body: new FormData(form)})
       .then(response => console.log('Success!', response))
       .catch(error => console.error('Error!', error.message))
-  })
 
 $("#newsletter").submit(function(){
     swal("Thank You!", "You have joined our mailing list.", "success");
