@@ -198,8 +198,6 @@
     fetch(scriptURL, { method: 'POST', body: new FormData(form)})
       .then(response => console.log('Success!', response))
       .catch(error => console.error('Error!', error.message))
-    $('#contact-me')[0].reset();<!-- for resetting fields after submission -->
-  })
 
 $("#contact-me").submit(function(){
     swal("Thank You!", "Your message has been sent. We will contact you as soon as possible if needed.", "success");
