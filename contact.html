@@ -278,6 +278,12 @@ $("#contact-me").submit(function(){
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
             
             <script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbwDegwjPGszf3NbfKOHwsA8YxYgFBwO1ybAq9tAVh6FDdQwIytj/exec'
+  const form = document.forms['newsletter']
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+    
 $("#newsletter").submit(function(){
     swal("Thank You!", "You have joined our mailing list.", "success");
 });
