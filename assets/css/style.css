@@ -877,19 +877,19 @@ section {
 }
 
 .team .member .member-info {
-  padding-left: 15px;
+  padding-left: 12px;
 }
 
 .team .member h4 {
   font-weight: 700;
   margin-bottom: 5px;
-  font-size: 17px;
+  font-size: 16.5px;
   color: #556270;
 }
 
 .team .member span {
   display: block;
-  font-size: 15px;
+  font-size: 14px;
   padding-bottom: 10px;
   position: relative;
   font-weight: 500;
