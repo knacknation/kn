@@ -193,7 +193,7 @@
   const form = document.forms['contact-me']
   form.addEventListener('submit', e => {
     e.preventDefault()
-    fetch(scriptURL, { method: 'POST', body: new FormData(formi)})
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
       .then(response => console.log('Success!', response))
       .catch(error => console.error('Error!', error.message))
     $('#contact-me')[0].reset();<!-- for resetting fields after submission -->
@@ -281,7 +281,7 @@ $("#contact-me").submit(function(){
   const formi = document.forms['newsletter']
   formi.addEventListener('submit', e => {
     e.preventDefault()
-    fetch(scriptURLi, { method: 'POST', body: new FormData(form)})
+    fetch(scriptURLi, { method: 'POST', body: new FormData(formi)})
       .then(response => console.log('Success!', response))
       .catch(error => console.error('Error!', error.message))
     $('#newsletter')[0].reset();<!-- for resetting fields after submission -->
