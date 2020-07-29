@@ -1398,7 +1398,7 @@ section {
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
-  font-family: 'Rajdhani';
+  font-family: "Rajdhani", sans-serif;
 }
 
 .portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
