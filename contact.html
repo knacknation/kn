@@ -193,7 +193,7 @@
   const form = document.forms['contact-me']
   form.addEventListener('submit', e => {
     e.preventDefault()
-    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+    fetch(scriptURL, { method: 'POST', body: new FormData(formi)})
       .then(response => console.log('Success!', response))
       .catch(error => console.error('Error!', error.message))
     $('#contact-me')[0].reset();<!-- for resetting fields after submission -->
