@@ -174,15 +174,33 @@
 })(jQuery);
 
 
-
+  // counter
 $('.counter-count').each(function () {
         $(this).prop('Counter',0).animate({
             Counter: $(this).text()
         }, {
-            duration: 13500,
+            duration: 12000,
             easing: 'swing',
             step: function (now) {
                 $(this).text(Math.ceil(now));
             }
         });
     });
+
+
+  // read more and less
+function myFunction() {
+  var dots = document.getElementById("dots");
+  var moreText = document.getElementById("more");
+  var btnText = document.getElementById("myBtn");
+
+  if (dots.style.display === "none") {
+    dots.style.display = "inline";
+    btnText.innerHTML = "Read more"; 
+    moreText.style.display = "none";
+  } else {
+    dots.style.display = "none";
+    btnText.innerHTML = "Read less"; 
+    moreText.style.display = "inline";
+  }
+}
