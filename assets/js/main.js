@@ -191,7 +191,7 @@ $('.counter-count').each(function () {
   // read more and less
 function myFunction() {
   var dots = document.getElementById("dots");
-  var moreText = document.getElementById("more");
+  var moreText = document.getElementById("mores");
   var btnText = document.getElementById("myBtn");
 
   if (dots.style.display === "none") {
