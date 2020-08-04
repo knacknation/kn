@@ -584,6 +584,8 @@ section {
   font-size: 32px;
   font-weight: 300;
   margin: 0;
+  font-family: "Open Sans", sans-serif;
+
 }
 
 .breadcrumbs ol {
@@ -2187,7 +2189,7 @@ section {
 
 
 /*--------------------------------------------------------------
-# Learn More Button (CSS Generator)
+# Learn More Button - blog and events
 --------------------------------------------------------------*/
 .myButton a {
   display: inline-block;
@@ -2207,7 +2209,30 @@ section {
 }
 
 
+
 /*--------------------------------------------------------------
-# Read more and less
+# Table Style
 --------------------------------------------------------------*/
-#mores {display: none;}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th{
+  text-align: center;
+  padding: 8px;
+  background-color: #123767;
+  color: white;
+  font-size: 14px;
+}
+td {
+  text-align: left;
+  padding: 6px;
+  font-size: 14px;;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+
