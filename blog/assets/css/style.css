@@ -584,6 +584,8 @@ section {
   font-size: 32px;
   font-weight: 300;
   margin: 0;
+  font-family: "Open Sans", sans-serif;
+
 }
 
 .breadcrumbs ol {
@@ -864,7 +866,7 @@ section {
 
 .team .member .pic {
   overflow: hidden;
-  width: 140px;
+  width: 80px;
   border-radius: 4px;
 }
 
@@ -877,19 +879,19 @@ section {
 }
 
 .team .member .member-info {
-  padding-left: 30px;
+  padding-left: 12px;
 }
 
 .team .member h4 {
   font-weight: 700;
   margin-bottom: 5px;
-  font-size: 20px;
+  font-size: 16.5px;
   color: #556270;
 }
 
 .team .member span {
   display: block;
-  font-size: 15px;
+  font-size: 14px;
   padding-bottom: 10px;
   position: relative;
   font-weight: 500;
@@ -1361,7 +1363,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #d9232d;
+  background: #123767;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1370,7 +1372,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #e24d55;
+  background: #1A4584;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1396,8 +1398,9 @@ section {
 --------------------------------------------------------------*/
 .portfolio-details .portfolio-title {
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 800;
   margin-bottom: 20px;
+  font-family: "Open Sans", sans-serif;
 }
 
 .portfolio-details .portfolio-details-carousel .owl-nav, .portfolio-details .portfolio-details-carousel .owl-dots {
@@ -2014,7 +2017,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
+  font-family: "Rajdhani", sans-serif;
   color: #fff;
 }
 
@@ -2108,14 +2111,14 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px 2px 20px;
-  background: #d9232d;
+  background: #123767;
   color: #fff;
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
 }
 
 #footer .footer-top .footer-newsletter form input[type="submit"]:hover {
-  background: #df3740;
+  background: #1A4584;
 }
 
 #footer .copyright {
@@ -2186,7 +2189,7 @@ section {
 
 
 /*--------------------------------------------------------------
-# Learn More Button (CSS Generator)
+# Learn More Button - blog and events
 --------------------------------------------------------------*/
 .myButton a {
   display: inline-block;
@@ -2204,3 +2207,32 @@ section {
 .myButton a:hover {
   background: #1A4584;
 }
+
+
+
+/*--------------------------------------------------------------
+# Table Style
+--------------------------------------------------------------*/
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th{
+  text-align: center;
+  padding: 8px;
+  background-color: #123767;
+  color: white;
+  font-size: 14px;
+}
+td {
+  text-align: left;
+  padding: 6px;
+  font-size: 14px;;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+
