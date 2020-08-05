@@ -140,8 +140,8 @@
 
   </main><!-- End #main -->
 
-  <!-- ======= Footer ======= -->
-<footer id="footer">
+ <!-- ======= Footer ======= -->
+ <footer id="footer">
     <div class="footer-top">
       <div class="container">
         <div class="row">
@@ -150,16 +150,11 @@
             <div class="footer-info">
               <h3>Knack Nation</h3>
               <p>
-                FBS, University of Dhaka<br>
-                Dhaka, Bangladesh<br><br>
+                Faculty of Business Studies<br>University of Dhaka<br>
+                Dhaka-1000, Bangladesh<br><br>
                 <strong>Phone:</strong> +88 01874-142737<br>
                 <strong>Email:</strong> contact@knacknation.club<br>
               </p>
-              <div class="social-links mt-3">
-                <a href="https://facebook.com/knacknation/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
-                <a href="https://instagram.com/knacknation?igshid=nwd10mabom28" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
-                <a href="https://linkedin.com/company/knack-nation" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
-              </div>
             </div>
           </div>
 
@@ -175,35 +170,30 @@
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Wings</h4>
+            <h4>Join Us</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="research-and-content-development.html">Research and Content Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="human-resources.html">Human Resources</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="finance-and-logistics.html">Finance and Logistics</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="publication.html">Publication</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="designing-and-it.html">Designing and IT</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="promotion.html">Promotion</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="external-affairs.html">External Affairs</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="recruitment.html">Recruitment Process</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="registration.html">Registration</a></li>
             </ul>
 
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Our Newsletter</h4>
-            <p>Please subscribe to join our mailing list</p>
-             <form name="newsletter" id="newsletter" action=" ">
-              <input type="email" name="Email" required><input type="submit" id="submit" value="Subscribe">
+            <p>Subscribe using email to get latest updates</p>
+        <form name="newsletter" id="newsletter" action=" ">
+              <input type="email" name="email" required><input type="submit" value="Subscribe">
             </form>
               <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
             <script>
-   const scriptURL = 'https://script.google.com/macros/s/AKfycbwDegwjPGszf3NbfKOHwsA8YxYgFBwO1ybAq9tAVh6FDdQwIytj/exec'
-  const form = document.forms['newsletter']
-  form.addEventListener('submit', e => {
+   const scriptURLi = 'https://script.google.com/macros/s/AKfycbwDegwjPGszf3NbfKOHwsA8YxYgFBwO1ybAq9tAVh6FDdQwIytj/exec'
+  const formi = document.forms['newsletter']
+  formi.addEventListener('submit', e => {
     e.preventDefault()
-    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+    fetch(scriptURLi, { method: 'POST', body: new FormData(formi)})
       .then(response => console.log('Success!', response))
       .catch(error => console.error('Error!', error.message))
     $('#newsletter')[0].reset();<!-- for resetting fields after submission -->
@@ -213,6 +203,14 @@ $("#newsletter").submit(function(){
     swal("Thank You!", "You have joined our mailing list.", "success");
 });
 </script>
+            
+               <div class="social-links mt-3">
+                <a href="https://facebook.com/knacknation/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
+                <a href="https://instagram.com/knacknation?igshid=nwd10mabom28" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
+                <a href="https://linkedin.com/company/knack-nation" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
+                <a href="https://www.youtube.com/channel/UCYQRgd_D326fE8Z8np9NIBQ?fbclid=IwAR0KlD62NZNFBj_mh3Q39FFuKaBXLCCiUn7nuDDMikxQ3t5m7qFYOWWxqSw" class="youtube" target="_blank"><i class="bx bxl-youtube"></i></a>
+
+              </div>
 
           </div>
 
@@ -252,3 +250,4 @@ $("#newsletter").submit(function(){
 </body>
   
 </html>
+
