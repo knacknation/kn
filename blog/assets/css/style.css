@@ -2017,7 +2017,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Rajdhani", sans-serif;
+  font-family: "Open Sans", sans-serif;
   color: #fff;
 }
 
@@ -2234,5 +2234,3 @@ td {
 }
 
 tr:nth-child(even){background-color: #f2f2f2}
-
-
