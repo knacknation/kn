@@ -1,9 +1,4 @@
-/**
-* Template Name: Sailor - v2.1.0
-* Template URL: https://bootstrapmade.com/sailor-free-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 !(function($) {
   "use strict";
 
@@ -179,7 +174,7 @@ $('.counter-count').each(function () {
         $(this).prop('Counter',0).animate({
             Counter: $(this).text()
         }, {
-            duration: 17500,
+            duration: 22000,
             easing: 'swing',
             step: function (now) {
                 $(this).text(Math.ceil(now));
