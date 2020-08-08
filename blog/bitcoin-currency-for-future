@@ -1,0 +1,399 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Bitcoin: Currency for the Future?</title>
+  <meta content="" name="descriptison">
+
+<meta name="keywords" content="Bitcoin: Currency for future,Bitcoin fundamentals,Bitcoin,How bitcoin works,knack nation blog,blog of knacknation,knack nation club blog,blog of knack nation fbs,knacknation club,knack nation du,knacknation du,knack nation dhaka university, fbs du clubs,clubs of fbs du,clubs of dhaka university" />
+<meta property="og:description" content="" />
+<meta property="fb:app_id" content="" />
+<meta property="og:url" content="" />
+<meta property="og:title" content="Bitcoin: Currency for the Future?" />
+<meta property="og:type" content="website" />
+<!--Link Sharing Problem Solving Starts-->
+<meta property="og:image" content="assets/img/blog-3.jpg" /><!--Link Sharing Problem Solving Finishes-->
+
+  <!-- Favicons -->
+  <link rel="shortcut icon" sizes="192x192" href="../assets/img/KN-logo.png">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+  
+  <!-- Social Media Share buton -->
+  <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=5f2ab5eb13f14e0014bd4830&product=inline-share-buttons" async="async"></script>
+
+  <!-- =======================================================
+  * Template Name: Sailor - v2.1.0
+  * Template URL: https://bootstrapmade.com/sailor-free-bootstrap-theme/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+    <!-- ======= Header ======= -->
+   <header id="header" class="fixed-top ">
+    <div class="container d-flex align-items-center">
+
+   <a href="../index.html">
+    <img src="../assets/img/KN-navlogo.png" class="img-fluid" width=55%>
+ </a>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+<nav class="nav-menu d-none d-lg-block">
+
+        <ul>
+          <li class="active"><a href="../index.html">Home</a></li>
+
+          <li class="drop-down"><a href="#">About</a>
+            <ul>
+              <li><a href="../about.html">About Us</a></li>
+              <li class="drop-down"><a href="#">Presidium Committee</a>
+              <ul>
+                  <li><a href="../team.html">Presidium Committee (Present)</a></li>
+                  <li><a href="../previous-presidium-committees.html">Presidium Committees (Previous)</a></li>
+                </ul>
+              </li>
+              <li><a href="../testimonials.html">Testimonials</a></li>
+
+              <li class="drop-down"><a href="#">Wings</a>
+                <ul>
+                  <li><a href="../research-and-content-development.html">Research and Content Development</a></li>
+                  <li><a href="../human-resources.html">Human Resources</a></li>
+                  <li><a href="../finance-and-logistics.html">Finance and Logistics</a></li>
+                  <li><a href="../publication.html">Publication</a></li>
+                  <li><a href="../designing-and-it.html">Designing and IT</a></li>
+                  <li><a href="../promotion.html">Promotion</a></li>
+                  <li><a href="../external-affairs.html">External Affairs</a></li>                  
+                </ul>
+              </li>
+            </ul>
+          </li>
+          
+          <li><a href="../past-events.html">Past Events</a></li>
+          <li><a href="../blog.html">Blog</a></li>
+          
+          <li class="drop-down"><a href="#">Join Us</a>
+            <ul>
+              <li><a href="../recruitment.html">Recruitment</a></li>
+              <li><a href="../registration.html">Registration</a>
+              </ul>
+          </li>  
+          
+          <li><a href="../contact.html">Contact Us</a></li>
+
+        </ul>
+
+      </nav><!-- .nav-menu -->
+
+
+
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+
+        <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h2><font color=#ffffff>Blog</font></h2>
+          <ol>
+            <li><a href="../index.html"><font color=#ffffff>Home</font></a></li>
+            <li><font color=#ffffff>Blog</font></li>
+          </ol>
+        </div>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+    <!-- ======= Blog Section ======= -->
+    <section id="blog" class="blog">
+      <div class="container">
+
+       <div class="row justify-content-center">
+        <div class="col-md-8 col-md-offset-2">
+        
+           <article class="entry entry-single">
+
+              <div class="entry-img">
+                <center><img src="assets/img/blog-3.jpg" alt="" width="100%"></center>
+              </div>
+
+              <h2 class="entry-title">
+                <a href="bitcoin-currency-for-future.html">Bitcoin: Currency for the Future?</a>
+              </h2>
+
+          
+              <div class="entry-meta">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="icofont-user"></i> <a href="bitcoin-currency-for-future.html">Aparajita Saha</a></li>
+                  <li class="d-flex align-items-center"><i class="icofont-wall-clock"></i> <a href="bitcoin-currency-for-future.html"><time datetime="2020-08-08">August 8, 2020</time></a></li>
+                </ul>
+              </div>
+             <div style="text-align:left" class="sharethis-inline-share-buttons"></div>
+             <br>
+
+              <div class="entry-content">
+                <p align=justify>
+<i>November 8, 2016.</i> The Indian Government announces the demonetization of 500 and 1000 rupees’ bank note and issues new 500 and 2000 rupees’ banknotes instead. The intention was to curb the black money from the market. No matter how noble the intention was, the sufferers were the commoners who had to wait long queues at the ATM and banks to exchange their old notes, and countrywide chaos broke out when ATMs ran dry. Yet it brought no solution to the black money problem. According to a report of RBI, almost 99.3% of the money went back to the system. 
+                </p>
+
+
+                <p align=justify>
+    <i>Incident 2:</i> Zimbabwe Government caused hyperinflation in economy by printing too much currency in order to respond to the country’s every ongoing economic crisis (increasing debt, declining manufacturing output, decreasing export income, covering expenses for a war etc.). This oversupplied the money market which eventually lowered down the purchasing power of money. The people had to exchange billions of dollar for a piece of bread. This all occurred because of unwise policy making of the government.                </p><br>
+
+
+
+                <p align=justify>
+    The above incidents raise this question, do the government have more power over our own money than they should? Will we benefit from a decentralized financial system free from government’s whim? Is it time to find a replacement for the traditional financial system? 
+                </p>
+
+                <p align=justify>
+    Enters, Bitcoin!
+
+                </p>
+
+
+                <p align=justify>
+  Bitcoin is a cryptocurrency and a decentralized digital currency which is independent on banks and can be sent from user to user on the peer-to peer bitcoin block chain network without the need for intermediaries. Now, time to break down the complex definition I got from Google.
+                </p>
+
+                <p align=justify>
+   Suppose, I sell you a book for 100 taka. You pay me the money; I give you the book, pretty simple, right?
+                </p>
+
+              <p align=justify>
+   Now, let’s say we cannot meet each other physically for the transaction, so we exchange the money via wire transfer. Now here’s where a third party like the bank and the government gets involved. The platform will deduct a charge from us for using their services. That is the problem of virtual transfer of money. We cannot do one-on –one business virtually like we do in real life without using a third party service. Here’s where Bitcoin comes to play. It removes the third party, or the very need of a third party from the equation.
+                </p>
+
+
+
+                           <p align=justify>
+   In the Bitcoin system, you and I will both have virtual account for Bitcoin. If I send you, say 1000 Bitcoins, it will go directly into your Bitcoin address, and the whole transaction will be logged into a digital ledger. Anyone who is a part of the Bitcoin system has access to this public ledger and can see every transaction in it. 
+
+                </p>
+
+
+                           <p align=justify>
+  But people being able to view all transactions made by other users is a big privacy violation, is it not? The answer is, not necessarily. Internet strangers can see how much money have been transferred from each address and to which, but they won’t know to whom those bitcoin addresses belong to, or who paid who for what. So your identity is protected. 
+                </p>
+
+    <p align=justify>
+  There are reasons why Bitcoin is so talked about. Since there is no third party, Bitcoin enables peer-to peer money transfer much faster and cheaper than traditional digital payment method. In traditional banking, all information gets stored in a central computer, and is vulnerable to hacking/theft. But the blockchain technology of Bitcoin network is practically hackproof. The only way to hack into this network is to hack all the millions of computer connected in it, which is virtually impossible. So, Bitcoin protects users’ money better than bank or govt. does. But more important than that, it gives the owners complete control over their finances. This new currency system might have the potential to change the future as we know it.
+                </p>
+
+                    <p align=justify>
+   Now, why create an alternative currency system in the first place? What’s so wrong with the existing one?
+                </p>
+
+                    <p align=justify>
+  Well, one of the problems of our current monetary system is centralization. We depend on the authority to print money and maintain its value, on the bank to keep our money safe and protected from theft/hacking. In another word, we may have less control over our own money than the government. Another problem is that there is no fixed quantity of money that can be printed. The govt. has the authority to create as much money as they want. If there is more money in the market, it eventually causes inflation, which lowers the value and the purchasing power of our money. So we have to buy less of a product in exchange of more money. Such mismanagement is not unheard of, cases in point are Zimbabwe and Venezuela. Also, the authority can ban your money, legalize new money, freeze your account, limit your withdrawal, and you don’t get much to say. 
+                </p>
+
+                    <p align=justify>
+   Bitcoin introduced this new system of decentralized currency that works just like real life cash transaction. The Bitcoin network is transparent and private at the same time. As mentioned before, the transactions are open, but the identity of users are anonymous. This system gives people complete freedom over their finances by shifting power from a central authority to the public. The quantity of Bitcoin is fixed (Only 21 million), which reduces the risk of inflation.
+                </p>
+
+                    <p align=justify>
+    So, this system enables peer-to-peer exchange, removes the middlemen and cuts down cost of transaction in the process, gives complete control to individuals and ensures transparency. With Bitcoin, the future of banking system might change dramatically. But if bitcoin is so game changing, then why has it not gone mainstream yet?
+                </p>
+
+                    <p align=justify>
+   There are major disadvantages that stop bitcoin from being a widely used currency, like lack of trust, utility, volatility etc.<br>
+1.  <b>Utility.</b> Bitcoin is not legal in most of the countries in the world including Bangladesh. In 2018, Bangladesh government warned against Bitcoin and termed it as ‘risky’. Nowhere in Bangladesh accepts Bitcoin as payment. This lack of trust in Bitcoin discourages its use as an alternative currency.<br>
+2.  <b>Volatile Price.</b> Bitcoin is subjected to high price swing which makes it a very risky investment. One example will clear this. In April 2013, Bitcoin price dropped from $266 to $76, but again rose to $160 within only 6 hours of the fall. This constant ups and downs may be beneficial for the short term investment, but it is too risky to invest for the long term.<br>
+3.  <b>Use in Criminal Activity.</b> Remember how nobody can figure out the identity of people behind a Bitcoin address? The ability of anonymous transaction is lucrative for criminals and black market dealers. You can pay off an assassin and get away with it, since it is difficult for law enforcement to detect illegal transaction paid in Bitcoin.<br>
+4.  <b>Consumption of Electricity.</b> Bitcoin mining consumes up a lot of electricity. In a 2018 estimate, total energy consumption by bitcoin was above 2 gigawatts, which can power 140,000 homes for a year. It is questionable to legalize a currency that puts a strain on the environment. Even from an individual perspective, the electricity cost of mining one bitcoin might be higher than the value of the coin.<br>
+5.  <b>Better Cryptocurrency.</b> Newer and advanced cryptocurrency such as Ethereum, Ripple, Litecoin exist in the market. Some of these currencies perform faster and cheaper than Bitcoin, and come with much improved technology like ICO (initial coin offering), smart contract system, added layers of security etc. Bitcoin has a risk of losing its dominant market position to cryptocurrencies equipped with better technology.
+
+                </p>
+
+                    <p align=justify>
+  Bitcoin, or other form of cryptocurrency for that matter, undoubtedly opened up possibility of developing alternative financial system. But to be the true “Future Money”, Bitcoin must solve its challenges before better cryptocurrencies replace it. It must be regulated to control illegal use and price volatility without losing its decentralized features. Whether bitcoin will coexist with traditional fiat money, or be replaced with more developed cryptocurrency alternatives- still remains a question for the future. 
+                </p>
+
+
+
+                <br>
+
+                <h3>Sources</h3>
+              <p>  
+99bitcoin, Forbes, Investopedia.com, Economicshelp.org, moneycrashers.com, economicstimes.com </p>
+
+
+
+              </div>
+
+              <div class="entry-footer clearfix">
+                <div class="float-left">
+                  <i class="icofont-folder"></i>
+                  <ul class="cats">
+                    <li>Economy</li>
+                  </ul>
+
+                  <i class="icofont-tags"></i>
+                  <ul class="tags">
+                    <li>Currency</li>
+                    <li>Bitcoin</li>
+
+                  </ul>
+                </div>
+
+                <div class="float-right share">
+                </div>
+
+              </div>
+
+            </article><!-- End blog entry -->
+
+            <div class="blog-author clearfix">
+              <img src="../assets/img/Members/Aparajita Saha.jpg" class="rounded-circle float-left" alt="Aparajita Saha">
+              <h4>Rahber Hassan</h4>
+              <div class="social-links">
+             </div>
+              <p>
+                The author is a student of BBA Class of 2022 at Department of Finance, University of Dhaka.
+              </p>
+
+              
+              
+          </div>
+         </div>
+        </div>
+      </div>
+    </section><!-- End Blog Section -->
+
+  </main><!-- End #main -->
+
+ <!-- ======= Footer ======= -->
+ <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="footer-info">
+              <h3>Knack Nation</h3>
+              <p>
+                Faculty of Business Studies<br>University of Dhaka<br>
+                Dhaka-1000, Bangladesh<br><br>
+                <strong>Phone:</strong> +88 01874-142737<br>
+                <strong>Email:</strong> contact@knacknation.club<br>
+              </p>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="../index.html">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="../about.html">About Us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="../team.html">Presidium Committee</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="../past-events.html">Past Events</a></li>
+
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Join Us</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="../recruitment.html">Recruitment Process</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="../registration.html">Registration</a></li>
+            </ul>
+
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>Our Newsletter</h4>
+            <p>Subscribe using email to get latest updates</p>
+        <form name="newsletter" id="newsletter" action=" ">
+              <input type="email" name="email" required><input type="submit" value="Subscribe">
+            </form>
+              <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+            <script>
+   const scriptURLi = 'https://script.google.com/macros/s/AKfycbwDegwjPGszf3NbfKOHwsA8YxYgFBwO1ybAq9tAVh6FDdQwIytj/exec'
+  const formi = document.forms['newsletter']
+  formi.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURLi, { method: 'POST', body: new FormData(formi)})
+      .then(response => console.log('Success!', response))
+      .catch(error => console.error('Error!', error.message))
+    $('#newsletter')[0].reset();<!-- for resetting fields after submission -->
+  })
+
+$("#newsletter").submit(function(){
+    swal("Thank You!", "You have joined our mailing list.", "success");
+});
+</script>
+            
+               <div class="social-links mt-3">
+                <a href="https://facebook.com/knacknation/" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
+                <a href="https://instagram.com/knacknation?igshid=nwd10mabom28" class="instagram" target="_blank"><i class="bx bxl-instagram"></i></a>
+                <a href="https://linkedin.com/company/knack-nation" class="linkedin" target="_blank"><i class="bx bxl-linkedin"></i></a>
+                <a href="https://www.youtube.com/channel/UCYQRgd_D326fE8Z8np9NIBQ?fbclid=IwAR0KlD62NZNFBj_mh3Q39FFuKaBXLCCiUn7nuDDMikxQ3t5m7qFYOWWxqSw" class="youtube" target="_blank"><i class="bx bxl-youtube"></i></a>
+
+              </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Knack Nation</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/sailor-free-bootstrap-theme/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+  
+</html>
