@@ -2252,7 +2252,7 @@ tr:nth-child(even){background-color: #f2f2f2}
 
 .advisor .member .member-info {
   position: absolute;
-  bottom: -100px;
+  bottom: -70px;
   left: 20px;
   right: 20px;
   background: #fff;
